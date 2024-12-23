@@ -1,0 +1,18 @@
+1, Loại cá nào bé hơn cả?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau1.wav,A : Voi,B : Bống ,C : Mập, D : Heo,dap2
+2, Từ < chang chang > Thường miêu tã hiện tương gì?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau2.wav,A : Bão,B : Khói,C : Lốc, D : Nắng,dap4
+3, Brussel là thành phố thuộc đất nước nào?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau3.wav, A : Công -Go,B : Bỉ,C : Ai Cập, D : Iran,dap2
+4, Trên thế giới không có tên biển nào sau đây?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau4.wav, A : Biển chết,B : Biển đỏ ,C : Biển đen, D :Biển xám,dap4
+5, Đâu là tên bài hát của nhạc sĩ Anh Quân - Dương Thụ?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau5.wav, A : Hương sầu riêng,B : Hương húng quế,C : Hương bưởi, D : Hương ngọc lan,dap4
+6, "Đội quân màu thiên thanh" là biệt danh của đội bóng nào?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau6.wav,A : Hà Lan,B : Ý,C : Đức,D : Na Uy,dap2
+7, Làng Đồng Kỵ ở Bắc Ninh chuyên về sản phẩm thủ công gì?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau7.wav,A : Gỗ mỹ nghệ,B : Chiếu cối,C : Khảm trai,D : Đúc đồng,dap1
+8, " Phi dê " là làm cho tóc như thế nào?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau8.wav,A : Nhọn,B : Thẳng,C : Vát,D : Xoăn,dap4
+9, Quốc gia nào sau đây không thuộc châu Á?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau9.wav,A : Nhật Bản,B : Pê-ru,C : Thái Lan,D : Mi-an-ma,dap2
+10, Đâu là tên một con sông nổi tiếng ở Huế?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau10.wav,A : Khói,B : Sương,C : Hương,D : Hoa,dap3
+11, Theo nghi lễ truyền thống thì ngày Lễ tạ ơn của người Mỹ không thể thiếu món thịt gì?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau11.wav,A : Dê,B : Ngỗng,C : Thỏ,D : Gà tây,dap4
+12, Tháp đôi Petronas nằm ở quốc gia nào?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau12.wav,A : Malaysia,B : Myanmar,C : Philippines,D : Indonesia,dap1
+13, Màu nào không có trên quốc kì của nước Đức?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau13.wav,A : Đen,B : Đỏ ,C : Vàng, D : Trắng,dap4
+14, Nguyên tố hóa học Canxi được kí hiệu như thế nào?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau14.wav,A : Ra,B : Ba ,C : Ca, D : Na,dap3
+15, Đâu là tên một loài cá?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau15.wav,A : Ghi,B : Viết ,C : Chép, D : Ký,dap3
+16, Loài côn trùng nào làm ra mật ngọt?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau16.wav,A : Ruồi,B : Ong ,C : Muỗi, D : Dơi,dap2
+17, Đau là tên một bài hát Nga nổi tiếng?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau17.wav,A : Nửa bông hồng,B : Trăm bông hồng ,C : Triệu triệu bông hồng, D : Chục bông hồng,dap3
+18, Sư tử biển là linh vật của quốc gia nào?,src/AiLaTrieuPhu/AudioAiLaTrieuPhu/cau18.wav,A : Malaysia,B : Myanmar ,C : Philippines, D : Singapore,dap4
